@@ -8,7 +8,5 @@ public class Opdracht2 {
     public static void main(String[] args) {
 
         Path destinationFile = Paths.get("C:/Data/test.txt");
-
     }
-
 }
